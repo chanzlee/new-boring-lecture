@@ -4,22 +4,14 @@ h1 {
   text-align: center;
 }
 
-h2.intro {
+.intro {
   font-style: italic;
   font-size: 20px;
   margin-top: 40px;
   margin-bottom: 40px;
+  width: 400px;
 }
-
-img.intro {
-  width: 200px;
-  float: right;
-  margin-right: 30px;
-}
-
-p.intro {
-  width: 50%;
-  margin-right: auto;
-  margin-left: auto;
-  text-align: center;
+.flashy {
+  color:red;
+  font-style: italic;
 }
