@@ -11,7 +11,15 @@ h1 {
   margin-bottom: 40px;
   width: 400px;
 }
-.flashy {
-  color:red;
-  font-style: italic;
+.clickable {
+  cursor:pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+  border: 2px solid red;
 }
